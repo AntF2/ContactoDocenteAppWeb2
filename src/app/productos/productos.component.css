@@ -1,0 +1,22 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .producto {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    background: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .producto img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  

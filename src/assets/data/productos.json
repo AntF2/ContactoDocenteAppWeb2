@@ -1,0 +1,39 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "AUDIFONOS BLUETOOTH SONY WH-CH520  Digital Smart",
+            "precio": 70,
+            "imagen": "https://digitalsmart.ec/wp-content/uploads/2024/01/AUDIFONOS-BLUETOOTH-SONY-WH-CH520-3.webp",
+            "cantidad": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Audífonos Bluetooth* con batería de hasta 30 h",
+            "precio": 37.98,
+            "imagen": "https://www.steren.com.ec/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/20986abca/audifonos-bluetooth-con-bateria-de-hasta-30-h.jpg",
+            "cantidad": 1
+        },
+        {
+            "id": 3,
+            "nombre":"Hoshi ECO Auriculares Bluetooth Inalámbricos",
+            "precio": 99.99, 
+            "imagen":"https://fiasportsbrands.com/peru/wp-content/uploads/sites/2/2023/10/41.png",
+            "cantidad": 1
+        },
+        {
+            "id": 4,
+            "nombre":"Audifonos Gamer Bluetooth Onikuma B60 Pc Mac Smartphone Negro",
+            "precio":24.99, 
+            "imagen":"https://prophonechile.cl/wp-content/uploads/2022/08/onikumab60.png",
+            "cantidad": 1
+        },
+        {
+            "id": 5,
+            "nombre":"Auriculares inalámbricos - JBL Tune 570BT, De diadema, Bluetooth 4.2, Control por voz, Negro",
+            "precio":39.99, 
+            "imagen":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_89412742?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402",
+            "cantidad": 1
+        }
+    ]
+}
