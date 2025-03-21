@@ -2,11 +2,10 @@ import { CommonModule } from '@angular/common';
 import { Component, inject, OnInit } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { ProductosService } from '../services/products.service';
-
 @Component({
   selector: 'app-productos',
   standalone: true,
-  imports: [CommonModule, HttpClientModule],
+  imports: [CommonModule],
   templateUrl: './productos.component.html',
   styleUrl: './productos.component.css'
 })
@@ -20,3 +19,4 @@ export class ProductosComponent implements OnInit {
     });
   }
 }
+

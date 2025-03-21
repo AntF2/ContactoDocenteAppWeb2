@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ProductosService {
-  private url = 'assets/data/productos.json'; 
+  private url = 'http://localhost:3000/productos'; 
 
   constructor(private http: HttpClient) {}
 
